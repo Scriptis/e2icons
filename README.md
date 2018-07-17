@@ -1,9 +1,9 @@
 # Scriptis' e2icons
 
-A collection Garry's Mod .VMTs for use in Wire EGPs.
-Only VMTs are included; this pack builds on existing addons.
+A collection of Garry's Mod .VMTs for use in Wire EGPs.
+Only VMTs are included; this pack builds on existing addons, bring your own textures.
 
-Currently includes VMTs for:
+Currently includes VMTs for textures from:
 * [M9K Assault Rifles](https://steamcommunity.com/sharedfiles/filedetails/?id=128089118)
 * [M9K Heavy Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=128091208)
 * [M9K Small Arms Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=128093075)
