@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/aw50"
+	"$ignorez" 1
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
